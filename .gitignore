@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+artifacts/
+index/
+*.db
+*.sqlite
+.DS_Store
+
+# Assessment-provided source material should normally remain local.
+data/aegis-dataset/
